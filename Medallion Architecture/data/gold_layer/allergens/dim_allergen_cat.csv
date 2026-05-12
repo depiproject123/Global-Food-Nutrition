@@ -1,0 +1,383 @@
+AllergenCatID,category,subcategory
+1,Beverages And Beverages Preparations,Waters
+2,Dairies,Fermented Milk Products
+3,Dairies,Milks Liquid And Powder
+4,Dairies,Milks
+5,Spreads,Yeast Extract Spreads
+6,Plant Based Foods And Beverages,Plant Based Foods
+7,Beverages And Beverages Preparations,Carbonated Drinks
+8,Snacks,Sweet Snacks
+9,Snacks,Cocoa And Its Products
+10,Petit Dejeuners,Produits A Tartiner Sucres
+11,Beverages And Beverages Preparations,Beverages
+12,Snacks,Biscuits And Cakes
+13,Food Additives,Baking Powder Or Raising Agent
+14,Plant Based Foods And Beverages,Fruits And Vegetables Based Foods
+15,Condiments,Sauces
+16,Plant Based Foods And Beverages,Cereals And Potatoes
+17,Beverages And Beverages Preparations,Snacks
+18,Other,Unknown
+19,Plant Based Foods And Beverages,Nuts And Their Products
+20,Condiments,Table Salts
+21,Condiments,Tomato Sauces
+22,Sweeteners,Sugars
+23,Beverages,Spring Waters
+24,Dairies,Spreads
+25,Beverages And Beverages Preparations,Dairies
+26,Beverages,Table Waters
+27,Dairies,Homogenized Milks
+28,Plant Based Foods And Beverages,Fats
+29,Plant Based Foods And Beverages,Snacks
+30,Fermented Foods,Sweet Snacks
+31,Condiments,White Vinegars
+32,Breakfasts,Sweet Spreads
+33,Plant Based Foods And Beverages,Breakfasts
+34,Seafood,Fishes
+35,Condiments,Mayonnaises
+36,Plant Based Foods And Beverages,Legumes And Their Products
+37,Condiments,Soy Sauces
+38,Condiments,Pasta Sauces
+39,Condiments,Algerian Style Sauces
+40,Snacks,Appetizers
+41,Sweeteners,Vanillin Sugars
+42,Gateau Fourre Chocolat,Unknown
+43,Beverages And Beverages Preparations,Cocoa And Its Products
+44,Beverages And Beverages Preparations,Instant Beverages
+45,Plant Based Foods And Beverages,Dried Products
+46,Plant Based Foods And Beverages,Seeds
+47,Dairies,Maroc
+48,Snacks,Snacks Sales
+49,Snacks,Confectioneries
+50,Snacks,Spreads
+51,Condiments,Yeast
+52,Seafood,Canned Foods
+53,Snacks,Sweet Pastries And Pies
+54,Condiments,Mustards
+55,Dairies,Baby Foods
+56,Beverages And Beverages Preparations,Beverage Preparations
+57,Condiments,Salad Dressings
+58,Condiments,Pestos
+59,Plant Based Foods And Beverages,Sweeteners
+60,Condiments,Vinegars
+61,Food Additives,Yeast
+62,Sweeteners,Simple Syrups
+63,Beverages,Waters
+64,Ingredients,Unknown
+65,Dried Products,Broths
+66,Crepes And Galettes,Crumpets
+67,Plant Based Foods And Beverages,Condiments
+68,Creme Fromagere,Creme Fromagere
+69,Dairies,Dairy Desserts
+70,Cocoa And Its Products,Cocoa And Chocolate Powders
+71,Snacks,Bars
+72,Beverages And Beverages Preparations,Frozen Foods
+73,Plant Based Foods And Beverages,Dairy Substitutes
+74,Cocoa And Its Products,Cocoa Powders
+75,Beverages,Artificially Sweetened Beverages
+76,Condiments,Wine Vinegars
+77,Meat Alternatives,Tranches Vegetales
+78,Dairies,Desserts
+79,Boisson Soda,Boisson Soda
+80,Beverages And Beverages Preparations,Breakfasts
+81,Condiments,Barbecue Sauces
+82,Meals,Prepared Salads
+83,Breakfasts,Festive Foods
+84,Meals,Meals With Meat
+85,Plant Based Foods And Beverages,Desserts
+86,Beverages,Fermented Foods
+87,Food Additives,Baking Powder
+88,Plant Based Foods And Beverages,Meat Alternatives
+89,Condiments,Baker S Yeast
+90,Snacks,Popcorn
+91,Meats And Their Products,Prepared Meats
+92,Beverages And Beverages Preparations,Plant Based Foods
+93,Meals,Potato Dishes
+94,Plant Based Foods And Beverages,Plant Based Beverages
+95,Condiments,Meal Sauces
+96,Crepes And Galettes,Warburtons Crumpets
+97,Yogurt,Unknown
+98,Dairies,Compound Dairy Creams
+99,Aliments D Origine Vegetale,Cereales Et Derives
+100,Desserts,Frozen Desserts
+101,Meat Alternatives,Meat Analogues
+102,Condiments,Dried Products
+103,Plant Based Foods And Beverages,Prepared Vegetables
+104,Snacks,Galletas
+105,Beverages,Non Alcoholic Beverages
+106,Cereales Completes,Unknown
+107,Plant Based Foods And Beverages,Meals
+108,Meat Alternatives,Cereals And Vegetables Patties
+109,Mensouria,Unknown
+110,Beverages,Tea Based Beverages
+111,Meat Alternatives,Vegetarian Sausages
+112,Fats,Unknown
+113,Meats And Their Products,Chicken And Its Products
+114,Cooking Helpers,Pastry Helpers
+115,Dairies,Creme Cuisson
+116,Dairies,Cooking Helpers
+117,Shampoing,Unknown
+118,Plant Based Foods And Beverages,Pastas
+119,Yaourt Veloute Pistache,Unknown
+120,Beverages,Iced Teas
+121,Food Additives,Poudres A Lever
+122,Midi Flatbread,Unknown
+123,Sweeteners,Cane Sugar
+124,Coca Cola,Unknown
+125,Plant Based Foods And Beverages,Cooking Helpers
+126,Meals,Reheatable Soups
+127,Chocolat A Tartiner,Unknown
+128,Juice,Sidi Ali
+129,Plant Based Foods And Beverages,Canned Foods
+130,Plant Based Foods And Beverages,Spreads
+131,Dietary Supplements,Health Beauty
+132,Aliments Et Boissons A Base De Vegetaux,Boissons Aux Fruits
+133,Fats,Dietary Supplements
+134,Huile De Table,Unknown
+135,Type,Unknown
+136,Plant Based Foods And Beverages,Seafood
+137,Plant Based Foods And Beverages,Fermented Foods
+138,Plant Based Foods And Beverages,Dairies
+139,Supplement De Proteines,Yaourt A Boire Aux Fruits
+140,Meals,Pizzas
+141,Condiments,Brown Sauces
+142,Sweeteners,Vanilla Sugars
+143,Condiments,French Salts
+144,Creme Main,Unknown
+145,Medicine,Open Beauty Facts
+146,Meals,Chicken Soups
+147,Condiments,Sea Salts
+148,Dairies,Whipped Creams
+149,Meals,Savory Semolina Dishes
+150,Beverages And Beverages Preparations,Artificially Sweetened Beverages
+151,Condiments,Worcestershire Sauces
+152,Meats And Their Products,Specific Products
+153,Beverages And Beverages Preparations,Energy Drinks
+154,Non Food Products,Cigarettes
+155,Dairies,Uht Creams
+156,Condiments,Hot Sauces
+157,Plant Based Foods And Beverages,Vegan Products
+158,Spreads,Spreadable Fats
+159,Beverages,Mountain Products
+160,Meals,Broths
+161,Beverages And Beverages Preparations,Dietary Supplements
+162,Condiments,Sels Fins
+163,Meat Alternatives,Vegetarian Patties
+164,Sweeteners,Brown Sugars
+165,هبا٨د,Unknown
+166,Baby Foods,Baby Milks
+167,Beverages And Beverages Preparations,Sweeteners
+168,Beverages,Sodas
+169,Oil,Unknown
+170,Dairies,Dairy Variety Packs
+171,Meats And Their Products,Charcuteries Cuites
+172,Condiments,Balsamic Vinegars
+173,Canned Foods,Puddings
+174,Beverages,Dairy Drinks
+175,Plant Based Foods And Beverages,Sweet Snacks
+176,Dairies,Creams
+177,Soft Drinks,Unknown
+178,Meats And Their Products,Poultries
+179,Meat Alternatives,Breaded Products
+180,Drink,Unknown
+181,Condiments,Meals
+182,Condiments,Pizza Sauces
+183,Condiments,Groceries
+184,Crepes And Galettes,Crepes De Froment
+185,Sweeteners,Granulated Sugars
+186,Snacks,Bodybuilding Supplements
+187,Tortillas Avoine Et Ble,Unknown
+188,Condiments,Meat Based Sauces
+189,Sprite,Unknown
+190,Plant Based Foods And Beverages,Plant Based Creams
+191,Meals,Pasta Dishes
+192,Meals,Spanish Omelettes
+193,Spreads,Beef Broth
+194,Meals,Meal Replacements
+195,Frozen Foods,Pizzas Pies And Quiches
+196,Ouile,Unknown
+197,Meals,Prepared Rices
+198,Festive Foods,Easter Food
+199,Meals,Tabbouleh
+200,Breakfasts,Frozen Foods
+201,Beverages And Beverages Preparations,Condiments
+202,Meat Alternatives,Falafels
+203,Tacos Sauce,Unknown
+204,Cooking Helpers,Preparations Pour Flans
+205,Dietary Supplements,Vitamins
+206,Condiments,Flavors
+207,Plant Based Foods And Beverages,Frozen Foods
+208,Meats And Their Products,Pork And Its Products
+209,Sourdough,Unknown
+210,Meats And Their Products,Hams
+211,Meats And Their Products,Meats
+212,Meals,Unknown
+213,Dues Beauty,Unknown
+214,Beverages And Beverages Preparations,Alcoholic Beverages
+215,Condiments,Dried Products To Be Rehydrated
+216,Canned Foods,Sauces
+217,Cerelac,Cerelac
+218,Beverages,Cocoa And Chocolate Powders
+219,Meals,Meat Alternatives
+220,Condiments,Meats And Their Products
+221,Broths,Unknown
+222,Beverages,Sweetened Beverages
+223,Meat Alternatives,Prepared Meat Cuts Substitutes
+224,Dairies,Cremes Allegees En Matiere Grasse
+225,Beverages And Beverages Preparations,Sweet Snacks
+226,Dairies,Cremes Legeres
+227,Yz,Unknown
+228,Condiments,American Style Sauces
+229,Meals,Refrigerated Foods
+230,Condiments,Vegetarian Sauces
+231,Heie,Unknown
+232,Condiments,Fzg
+233,Plant Based Foods And Beverages,Pickles
+234,Frozen Foods,Meat Analogues
+235,Meals,Fresh Foods
+236,Beverages,Beers
+237,Frozen Foods,240
+238,Desserts,Sweet
+239,Bien,Unknown
+240,Beverages,Flavoured Syrups
+241,Condiments,Cider Vinegars
+242,Meals,Meals With Fish
+243,Dairies,Unknown
+244,Dairies,Semi Skimmed Milks
+245,Plant Based Foods And Beverages,Meats And Their Products
+246,Plantaardige Kaas,Vegetarisch
+247,Condiments,Malt Vinegars
+248,Sweeteners,Unknown
+249,Condiments,Sauces Andalouses
+250,Canned Foods,Meals With Meat
+251,Seafood,Frozen Foods
+252,Novobac,Unknown
+253,Dried Products,Baby Milks
+254,Dried Products,Dried Products To Be Rehydrated
+255,Snacks,Frozen Foods
+256,Dietary Supplements,Complements Alimentaires
+257,Dairies,Specific Products
+258,Cooking Helpers,Baking Mixes
+259,Dietary Supplements,Bodybuilding Supplements
+260,Enfants,Cerelac Pour Enfants
+261,Crepes And Galettes,Crepes Et Galettes
+262,Dairies,Sauces
+263,Dairies,Condensed Milks
+264,Baby Foods,Growth Milks
+265,Meals,Prepared Couscous
+266,Breakfasts,Cocoa And Its Products
+267,Vegetables Prepared Processed Shelf Stable,Refeicoes Para Micro Ondas
+268,Beverages And Beverages Preparations,Non Alcoholic Beverages
+269,Sweeteners,Powdered Sugars
+270,Condiments,Beef And Its Products
+271,Plant Based Foods And Beverages,Meat Analogues
+272,Dairies,Cremes Fraiches
+273,Beverages And Beverages Preparations,Tea Based Beverages
+274,Meals,Microwave Meals
+275,Broths,Groceries
+276,Dairies,Evaporated Milks Without Sugar
+277,Shampoo,Unknown
+278,A,Cruesli
+279,Plant Based Foods And Beverages,Hot Beverages
+280,Snacks,Salty Snacks
+281,Vegan Products,Meat Analogues
+282,Meats And Their Products,Meals With Meat
+283,Sweeteners,Beet Sugars
+284,Condiments,Cooking Sauces
+285,Condiments,Harissa Sauces
+286,Breakfasts,Spreads
+287,Seafood,Gratins
+288,Frozen Foods,Frozen Fried Potatoes
+289,Meat Alternatives,Meat Analogues From Soy Or Wheat Proteins
+290,Non Food Products,Open Beauty Facts
+291,Beverages,Energy Drink With Sugar
+292,Sweeteners,Coconut Sugar
+293,Snacks,Unknown
+294,Condiments,Nutritional Yeast
+295,Spreads,Unknown
+296,Condiments,Burger Sauces
+297,Creme Hydratante,Unknown
+298,Seafood,Fish Preparations
+299,Food Additives,Baker S Yeast
+300,Snacks,Desserts
+301,Plant Based Foods And Beverages,Broths
+302,Dietary Supplements,Unknown
+303,Condiments,Curry Sauces
+304,Corn Snack,Unknown
+305,Wipes,Unknown
+306,Sweeteners,Caster Sugars
+307,Condiments,Alimentos De Origen Vegetal
+308,Meals,Quiches
+309,Sourdough Bread,Sourdough Bread
+310,Dried Yeast,Unknown
+311,Dietary Supplements,Protein Bars
+312,Desserts,Sweet Mousses
+313,Dietary Supplements,Supplements
+314,Beverages And Beverages Preparations,Syrups
+315,Chips And Fries,Frozen Fried Potatoes
+316,Desserts,Puddings
+317,Meat Alternatives,Vegetarian Snacks
+318,Cigarettes,Fumer
+319,Beverages,Cocoa And Its Products
+320,Meats And Their Products,Sausages
+321,Meals,Soups
+322,Meals,Rice Dishes
+323,Desserts,Cooking Helpers
+324,Meat Alternatives,Vegetarian Balls
+325,Beverages And Beverages Preparations,Herbal Teas
+326,Sauce Biggy,Unknown
+327,Plant Based Foods And Beverages,Coffees
+328,Danoune,Unknown
+329,Dairies,Uht Compound Dairy Creams With To Fat
+330,Dietary Supplements,Magnesio
+331,The Components,Unknown
+332,Sourdough Bread,Unknown
+333,Chicken Stock,Unknown
+334,King,Unknown
+335,Condiments,Tzatzikis
+336,Snacks,Crepes And Galettes
+337,Baby Foods,Biscuits For Babies
+338,Palm,Unknown
+339,Meat Alternatives,Tofu Patties
+340,Sweeteners,Sugar Substitutes
+341,Meals,Beef Dishes
+342,Sportdrank,Unknown
+343,Meat Alternatives,Hamburguesas Vegetales Espinacas Y Zanahoria
+344,Plant Based Foods And Beverages,Seeded Bread
+345,Dietary Supplements,Creatine
+346,Condiments,Nuoc Mam Sauce
+347,Desserts,Rice Puddings
+348,Juice,Unknown
+349,Antibiotique,Unknown
+350,Farming Products,Chicken Eggs
+351,Clea,Unknown
+352,Adhesives,Glues
+353,Meals,Chicken Tabbouleh
+354,Dairies,Evaporated Milks With Sugar
+355,Plant Based Foods And Beverages,Flakes
+356,Meals,Stuffed Vine Leaves
+357,Canned Foods,Soups
+358,Condiments,Tartare Sauces
+359,Laits,Laits Uht
+360,Condiments,Pizzas Pies And Quiches
+361,Meals,Poultry Sandwiches
+362,Condiments,Frozen Foods
+363,Pastry Snack,Unknown
+364,Meals,Cereales Preparees
+365,Barre De Cereales A La Creme De Lait,Unknown
+366,Seafood,Salted Spreads
+367,Seafood,Specific Products
+368,Meals,Cod Brandade
+369,Snacks,Cacao Nibs
+370,Condiments,Oyster Sauces
+371,Stuffing,Unknown
+372,Meals,Pots
+373,Dietary Supplements,Minereaux
+374,Crepes And Galettes,Crumpet
+375,Condiments,Indian Style Sauces
+376,Beverages And Beverages Preparations,Sweetened Beverages
+377,Bad,Healthy
+378,Sweeteners,Edulcorants Sucres Sucres En Poudre
+379,Seafood,Breaded Products
+380,Dumplings,Vegan
+381,Beverages And Beverages Preparations,Canned Foods
+382,Desserts,Creme Dessert Riche En Proteines

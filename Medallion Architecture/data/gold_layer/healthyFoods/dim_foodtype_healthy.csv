@@ -1,0 +1,10 @@
+food_type,FoodTypeID
+Fruits,1
+Other,2
+Grains,3
+Vegetables,4
+Meat & Poultry,5
+Beverages,6
+Dairy,7
+Snacks & Sweets,8
+Seafood,9

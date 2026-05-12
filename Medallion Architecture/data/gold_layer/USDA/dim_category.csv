@@ -1,0 +1,242 @@
+CategoryID,food_category
+1,Fruits and Fruit Juices
+2,American Indian/Alaska Native Foods
+3,Beverages
+4,Vegetables and Vegetable Products
+5,Nut and Seed Products
+6,Cereal Grains and Pasta
+7,Finfish and Shellfish Products
+8,Baked Products
+9,Fats and Oils
+10,Restaurant Foods
+11,Fast Foods
+12,Baby Foods
+13,Sausages and Luncheon Meats
+14,Legumes and Legume Products
+15,Pork Products
+16,Sweets
+17,"Meals, Entrees, and Side Dishes"
+18,Spices and Herbs
+19,Beef Products
+20,Dairy and Egg Products
+21,"Lamb, Veal, and Game Products"
+22,Snacks
+23,"Soups, Sauces, and Gravies"
+24,Poultry Products
+25,Breakfast Cereals
+26,Meat/Poultry/Other Animals - Prepared/Processed
+27,"Frozen Poultry, Chicken & Turkey"
+28,Flavored Rice Dishes
+29,Pasta by Shape & Type
+30,Cheese
+31,"Popcorn, Peanuts, Seeds & Related Snacks"
+32,Soda
+33,Canned Vegetables
+34,"Chips, Pretzels & Snacks"
+35,"Cakes, Cupcakes, Snack Cakes"
+36,"Cake, Cookie & Cupcake Mixes"
+37,Sandwiches/Filled Rolls/Wraps
+38,Ice Cream & Frozen Yogurt
+39,Other Drinks
+40,Wholesome Snacks
+41,Crackers & Biscotti
+42,Breads & Buns
+43,Pre-Packaged Fruit & Vegetables
+44,Other Deli
+45,Iced & Bottle Tea
+46,"Pickles, Olives, Peppers & Relishes"
+47,"Seasoning Mixes, Salts, Marinades & Tenderizers"
+48,Powdered Drinks
+49,Baking/Cooking Mixes/Supplies
+50,Prepared Pasta & Pizza Sauces
+51,"Jam, Jelly & Fruit Spreads"
+52,Breakfast Cereals - Hot And Cold
+53,Cookies & Biscuits
+54,Mexican Dinner Mixes
+55,"Sausages, Hotdogs & Brats"
+56,Candy
+57,"Oriental, Mexican & Ethnic Sauces"
+58,Coffee
+59,Biscuits/Cookies
+60,Other Cooking Sauces
+61,"Fruit & Vegetable Juice, Nectars & Fruit Drinks"
+62,Vegetable and Lentil Mixes
+63,Frozen Bread & Dough
+64,Water
+65,Tea Bags
+66,Chocolate
+67,Honey
+68,Frozen Dinners & Entrees
+69,Other Snacks
+70,"Ketchup, Mustard, BBQ & Cheese Sauce"
+71,"Snack, Energy & Granola Bars"
+72,Pizza Mixes & Other Dry Dinners
+73,Flavored Snack Crackers
+74,Canned Soup
+75,Meat/Poultry/Other Animals  Prepared/Processed
+76,Meat/Poultry/Other Animals  Unprepared/Unprocessed
+77,"Pepperoni, Salami & Cold Cuts"
+78,Other Soups
+79,Butter & Spread
+80,"Entrees, Sides & Small Meals"
+81,Dips & Salsa
+82,Meat/Poultry/Other Animals Sausages  Prepared/Processed
+83,Lunch Snacks & Combinations
+84,Frozen Patties and Burgers
+85,Salad Dressing & Mayonnaise
+86,Frozen Prepared Sides
+87,Eggs & Egg Substitutes
+88,Canned Seafood
+89,"Frozen Breakfast Sandwiches, Biscuits & Meals"
+90,Other Frozen Desserts
+91,Vegetable & Cooking Oils
+92,Deli Salads
+93,Prepared Subs & Sandwiches
+94,Sport Drinks
+95,Flours & Corn Meal
+96,Tomatoes
+97,Alcohol
+98,Herbs & Spices
+99,Baking Additives & Extracts
+100,Milk
+101,"Granulated, Brown & Powdered Sugar"
+102,Liquid Water Enhancer
+103,Frozen Appetizers & Hors D'oeuvres
+104,Fish  Unprepared/Unprocessed
+105,Fish Unprepared/Unprocessed
+106,Cream
+107,Yogurt
+108,Fruit  Prepared/Processed
+109,Fruit - Prepared/Processed
+110,Non Alcoholic Beverages - Ready to Drink
+111,Fish - Prepared/Processed
+112,Shellfish Unprepared/Unprocessed
+113,Plant Based Milk
+114,Savoury Bakery Products
+115,Sauces/Spreads/Dips/Condiments
+116,Pizza
+117,"French Fries, Potatoes & Onion Rings"
+118,Vegetables - Unprepared/Unprocessed (Frozen)
+119,Pickles/Relishes/Chutneys/Olives
+120,"Croissants, Sweet Rolls, Muffins & Other Pastries"
+121,Crusts & Dough
+122,Sweet Bakery Products
+123,Bread & Muffin Mixes
+124,Frozen Fish & Seafood
+125,Cereal
+126,Smoked fish
+127,Vegetables - Prepared/Processed
+128,Rice
+129,Other Frozen Meats
+130,Other Meats
+131,Nut & Seed Butters
+132,Frozen Fruit & Fruit Juice Concentrates
+133,"Poultry, Chicken & Turkey"
+134,Syrups & Molasses
+135,Baking Decorations & Dessert Toppings
+136,Plant Based Water
+137,All Noodles
+138,Canned Fruit
+139,Other Condiments
+140,Bread
+141,Milk Additives
+142,Frozen Vegetables
+143,Canned Meat
+144,Chili & Stew
+145,Canned & Bottled Beans
+146,Canned Condensed Soup
+147,Herbal Supplements
+148,"Energy, Protein & Muscle Recovery Drinks"
+149,Other Grains & Seeds
+150,Pastry Shells & Fillings
+151,Dough Based Products / Meals
+152,Oils Edible
+153,Non Alcoholic Beverages  Ready to Drink
+154,Prepared Wraps and Burittos
+155,Sushi
+156,Meal Replacement Supplements
+157,"Frozen Bacon, Sausages & Ribs"
+158,Fish & Seafood
+159,Fruits - Unprepared/Unprocessed (Shelf Stable)
+160,Sweet Spreads
+161,Biscuits Cracker
+162,Shellfish Prepared/Processed
+163,Pasta Dinners
+164,Cheese/Cheese Substitutes
+165,Specialty Formula Supplements
+166,Grains/Flour
+167,Vegetables  Prepared/Processed
+168,Canned Tuna
+169,Processed Cereal Products
+170,Gravy Mix
+171,"Breakfast Sandwiches, Biscuits & Meals"
+172,Dairy/Egg Based Products / Meals
+173,Chewing Gum & Mints
+174,"Gelatin, Gels, Pectins & Desserts"
+175,Vegetarian Frozen Meats
+176,"Frozen Pancakes, Waffles, French Toast & Crepes"
+177,Meat/Poultry/Other Animals Sausages - Prepared/Processed
+178,Cooked & Prepared
+179,Puddings & Custards
+180,Yogurt/Yogurt Substitutes
+181,Canned Fish and Meat
+182,"Pancakes, Waffles, French Toast & Crepes"
+183,Fruit/Nuts/Seeds Combination
+184,Aquatic Invertebrates/Fish/Shellfish/Seafood Combination
+185,"Frozen Sausages, Hotdogs & Brats"
+186,"Bacon, Sausages & Ribs"
+187,Ready-Made Combination Meals
+188,Desserts/Dessert Sauces/Toppings
+189,Meat/Poultry/Other Animals - Unprepared/Unprocessed
+190,Herbs/Spices/Extracts
+191,Weight Control
+192,Milk/Cream - Shelf Stable
+193,Non Alcoholic Beverages - Not Ready to Drink
+194,Health Care
+195,Desserts & Custard
+196,Spreads
+197,Vegetable Based Products / Meals
+198,Prepared Soups
+199,Baking
+200,Digestive & Fiber Supplements
+201,Breakfast Drinks
+202,Cheese - Block
+203,Frozen Fruit
+204,Pasta/Noodles
+205,Sausages/Smallgoods
+206,Vegetarian
+207,Dairy Foods/Yoghurts
+208,Green Supplements
+209,Cheese - Speciality 
+210,Frozen Fish/Seafood
+211,Food/Beverage/Tobacco Variety Packs
+212,Biscuits/Cookies (Shelf Stable)
+213,Cereal/Muesli Bars
+214,Dressings/Dips (Shelf Stable)
+215,Fruit - Prepared/Processed (Shelf Stable)
+216,Chips/Crisps/Snack Mixes - Natural/Extruded (Shelf Stable)
+217,Popcorn (Shelf Stable)
+218,Canned/Dried Veges
+219,Drinks - Soft Drinks
+220,Mussels
+221,Fats Edible
+222,Biscuits Kids
+223,Stuffing
+224,Seafood Miscellaneous
+225,Puddings and desserts
+226,Sugars/Sugar Substitute Products
+227,Confectionery Products
+228,"Drinks - Juices, Drinks and Cordials"
+229,Drinks - Powdered
+230,"Tea - Bags, Loose Leaf, Speciality"
+231,Prepared/Preserved Foods Variety Packs
+232,Prepared Meals
+233,Pasta
+234,Eggs/Eggs Substitutes
+235,Baking Needs
+236,Children's Nutritional Supplements
+237,Grain Based Products / Meals
+238,Fish Substitutes
+239,Milk/Milk Substitutes
+240,Vegetables  Unprepared/Unprocessed (Frozen)
+241,Snack Foods - Cereal Snacks
