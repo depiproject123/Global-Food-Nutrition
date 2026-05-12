@@ -51,7 +51,6 @@ The project integrates **three primary data sources:**
 | **Data Modeling** | Star Schema, Fact/Dimension Tables | Optimized relational design |
 | **Analysis** | Jupyter Notebook | Exploratory data analysis (EDA) |
 | **Reporting** | PowerPoint | Executive presentation |
-| **Database** | CSV (Gold Layer) | Structured output for dashboards |
 
 ---
 
