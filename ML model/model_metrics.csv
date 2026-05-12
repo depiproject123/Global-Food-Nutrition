@@ -1,0 +1,2 @@
+R2_Test,R2_Train,MAE_Test,MAE_Train,RMSE_Test,RMSE_Train,CV_Mean_R2,CV_Std_R2,Total_Predictions
+0.979304,0.986336,0.6758,0.552,1.4239,1.1501,0.9673,0.011,8000
