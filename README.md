@@ -1,4 +1,4 @@
-# 🍎 Food Safety & Nutrition Analytics Dashboard
+# Food Safety & Nutrition Analytics Dashboard
 
 ## 📋 Overview
 
